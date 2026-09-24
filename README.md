@@ -9,7 +9,7 @@
 **Pos Parkir** adalah aplikasi web berbasis Laravel yang dirancang untuk mengelola pendaftaran kendaraan, akses masuk-keluar area parkir, serta pencatatan transaksi parkir secara efisien, modern, dan responsif.
 
 🌐 **Akses Live Demo:** [https://posparkir.free.je/?i=1](https://posparkir.free.je/?i=1)
-
+LINK REPOSITORY  : https://github.com/2wisnupambudi2-wq/parkir-kantor-pos.git
 ---
 
 ## ✨ Fitur Utama
